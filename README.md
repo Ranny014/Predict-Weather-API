@@ -45,7 +45,7 @@ This project is a **mini ETL + Machine Learning pipeline** to predict tomorrow's
 Install dependencies:
 
 ```bash
-pip install pandas scikit-learn requests
+pip install pandas scikit-learn requests python-dotenv
 ```
 
 ---
