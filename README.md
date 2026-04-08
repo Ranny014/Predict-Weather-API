@@ -40,6 +40,7 @@ This project is a **mini ETL + Machine Learning pipeline** to predict tomorrow's
 - pandas
 - scikit-learn
 - requests
+- python-dotenv
 
 Install dependencies:
 

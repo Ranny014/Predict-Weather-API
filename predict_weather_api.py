@@ -1,10 +1,10 @@
-import requests
-import os
-import pandas as pd
-from datetime import datetime, timedelta
-from sklearn.linear_model import LinearRegression
+import requests # external
+import os # internal
+import pandas as pd # external
+from datetime import datetime, timedelta # internal
+from sklearn.linear_model import LinearRegression # eksternal
 from sklearn.metrics import mean_squared_error
-from dotenv import load_dotenv
+from dotenv import load_dotenv # external
 
 # ==========================
 # 1️⃣ Konfigurasi
